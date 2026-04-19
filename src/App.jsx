@@ -1165,9 +1165,9 @@ export default function App() {
         <div className="section-label">Education</div>
         <h2 className="section-title">Academic Background</h2>
         <div className="edu-grid">
-          <div className="edu-card"><span className="edu-icon">🎓</span><div className="edu-degree">B.Tech in Computer Science (AI & ML)</div><div className="edu-school">Noida Institute of Engineering & Technology</div><div className="edu-year">2022 – 2026 · Greater Noida, India</div><span className="edu-score"></span></div>
-          <div className="edu-card"><span className="edu-icon">📚</span><div className="edu-degree">Class XII — Senior Secondary</div><div className="edu-school">Higher Secondary School</div><div className="edu-year">2021</div><span className="edu-score"></span></div>
-          <div className="edu-card"><span className="edu-icon">📖</span><div className="edu-degree">Class X — Secondary</div><div className="edu-school">Secondary School</div><div className="edu-year">2019</div><span className="edu-score"></span></div>
+          <div className="edu-card"><span className="edu-icon">🎓</span><div className="edu-degree">B.Tech in Computer Science (AI & ML)</div><div className="edu-school">Noida Institute of Engineering & Technology</div><div className="edu-year">2022 – 2026 · Greater Noida, India</div></div>
+          <div className="edu-card"><span className="edu-icon">📚</span><div className="edu-degree">Class XII — Senior Secondary</div><div className="edu-school">Higher Secondary School</div><div className="edu-year">2021</div></div>
+          <div className="edu-card"><span className="edu-icon">📖</span><div className="edu-degree">Class X — Secondary</div><div className="edu-school">Secondary School</div><div className="edu-year">2019</div></div>
         </div>
       </section>
 
