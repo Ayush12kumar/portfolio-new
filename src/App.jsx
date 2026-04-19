@@ -1078,11 +1078,11 @@ export default function App() {
           </div>
 
           <div className="info-list">
-            <div className="info-item"><div className="info-icon">📍</div><div className="info-content"><span className="info-key">Location</span><span className="info-val">Delhi, India</span></div></div>
-            <div className="info-item"><div className="info-icon">🎓</div><div className="info-content"><span className="info-key">Education</span><span className="info-val">B.Tech CS (AI & ML) — NIET</span></div></div>
-            <div className="info-item"><div className="info-icon">✉️</div><div className="info-content"><span className="info-key">Email</span><span className="info-val">jha859970@gmail.com</span></div></div>
-            <div className="info-item"><div className="info-icon">📱</div><div className="info-content"><span className="info-key">Phone</span><span className="info-val">+91-7766890121</span></div></div>
-            <div className="info-item"><div className="info-icon">💼</div><div className="info-content"><span className="info-key">Status</span><span className="info-val">Open to Opportunities</span></div></div>
+            <div className="info-item"><div className="info-icon"></div><div className="info-content"><span className="info-key">Location</span><span className="info-val">Delhi, India</span></div></div>
+            <div className="info-item"><div className="info-icon"></div><div className="info-content"><span className="info-key">Education</span><span className="info-val">B.Tech CS (AI & ML) — NIET</span></div></div>
+            <div className="info-item"><div className="info-icon"></div><div className="info-content"><span className="info-key">Email</span><span className="info-val">jha859970@gmail.com</span></div></div>
+            <div className="info-item"><div className="info-icon"></div><div className="info-content"><span className="info-key">Phone</span><span className="info-val">+91-7766890121</span></div></div>
+            <div className="info-item"><div className="info-icon"></div><div className="info-content"><span className="info-key">Status</span><span className="info-val">Open to Opportunities</span></div></div>
           </div>
         </div>
       </section>
@@ -1143,7 +1143,7 @@ export default function App() {
         <h2 className="section-title">Professional Journey</h2>
         <div className="exp-grid">
           <div className="exp-sidebar">
-            <div className="exp-year">2024</div>
+            <div className="exp-year blue">2024</div>
             <p style={{ color: 'var(--muted)', fontSize: '0.88rem', lineHeight: 1.7 }}>
               Hands-on industry experience delivering real-world frontend solutions with measurable impact.
             </p>
