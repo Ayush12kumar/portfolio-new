@@ -34,9 +34,9 @@ export default function App() {
     },
     {
       number: "03 — AI + BACKEND",
-      title: "Crypto Crash Game",
+      title: "Medical assistant",
       image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?auto=format&fit=crop&w=1200&q=80",
-      link: "https://github.com/Ayush12kumar/crypto-crash-backend",
+      link: "https://medical-assistant-peach.vercel.app/",
       points: [
         "Developed a real-time crypto crash game with WebSockets, live rounds, and provably fair logic.",
         "Focused on transparent gameplay, performance optimization, and secure round handling."
