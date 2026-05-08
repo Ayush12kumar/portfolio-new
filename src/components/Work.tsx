@@ -9,14 +9,14 @@ const projects = [
     category: "Design + Development",
     tools: "React, Vite, Responsive Design, 90+ Lighthouse Score",
     image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?auto=format&fit=crop&w=1200&q=80",
-    link: "https://portfolio-new-1bb5.vercel.app/",
+    link: "https://portfolio-new-olive-beta.vercel.app/",
   },
   {
     title: "Team Task Manager",
     category: "Full Stack Application",
     tools: "Next.js, Node.js, Express, MongoDB, Authentication, JWT",
     image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?auto=format&fit=crop&w=1200&q=80",
-    link: "#",
+    link: "https://team-task-manager-three-omega.vercel.app",
   },
   {
     title: "Medical Assistant",
